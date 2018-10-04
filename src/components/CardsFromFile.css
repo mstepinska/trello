@@ -1,0 +1,3 @@
+.custom_file_input ~ .custom_file_label::after {
+  content: 'Select';
+}
